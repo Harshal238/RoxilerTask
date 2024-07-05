@@ -1,0 +1,1 @@
+module.exports.getStatisticsController = require('./statistics.controller')

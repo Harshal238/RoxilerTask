@@ -1,0 +1,1 @@
+module.exports.getBarChartDataController = require('./getBarChartData.controller') 
